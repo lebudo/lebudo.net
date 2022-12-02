@@ -9,3 +9,9 @@ layout: page
 Moderni kendo on kontaktilaji, jota harjoitellaan suojavarusteet päällä bambumiekan kanssa. Se on kamppailulaji, jossa otellaan toista vastaan. Harjoittelu koostuu yksin ja parin kanssa tehtävistä liikesarjoista.
 
 Kendo ei vaadi voimaa vaan tekniikkaa. Aloittaessasi harjoittelun tarvitset vain oman verryttelyasun.
+
+**Kurssiemme ikäsuositus on 15-vuotta ja ylöspäin.**
+Emme tällä hetkellä järjestä junnu-kendoa. 
+
+
+Vetäjämme on Petri Pesonen, kendo 3.dan.

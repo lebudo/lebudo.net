@@ -1,24 +1,25 @@
-heading: Etä-harjoitusajat - Tammikuu 2021
+heading: Harjoitusajat syksy 2022
 timetable:
 - day: Maanantai
   times:
-  - 18:30-19:30 Iaido, Zoom
+  - 20:30–21:30 Iaido, Ruusutorpan koulu
 - day: Tiistai
   times:
-  - 17:00-18:00 Kendo, Google Meet
+  - 16:30–18:00 Kendo, Ruusutorpan koulu
 - day: Keskiviikko
   times:
-  - 18:00-19:00 Iaido, Zoom
+  - 19:00–20:15 Iaido, Jatkokurssi, Lintuvaaran koulu
+  - 20:15–21:30 Jodo, Jatkokurssi, Lintuvaaran koulu
 - day: Torstai
   times:
-  - 18:00-19:00 Jodo, Zoom
-  - 19:00-20:00 Iaido, Zoom
-  - "– Kendo, Temporarily canceled"
+  - 18:00–20:00 Kendo, Ruusutorpan koulu
+  - 18:00–19:30 Jodo, Lintuvaaran koulu
+  - 19:30–21:30 Iaido, Lintuvaaran koulu
 - day: Perjantai
   times: []
 - day: Lauantai
   times:
-  - 14:00-15:00 Iaido, Zoom
-  - 15:00-16:00 Jodo, Zoom
+  - 14:00–15:30 Iaido, Ruusutorpan koulu
+  - 15:30–17:00 Jodo, Ruusutorpan koulu
 - day: Sunnuntai
   times: []
