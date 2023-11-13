@@ -5,3 +5,7 @@ https://lebudo.netlify.com/* https://lebudo.net/:splat 301!
 
 # Redirect to admin panel
 /admin https://lebudo.admin.datocms.com/ 302
+
+# Proxy Plausible stats
+/js/script.js https://plausible.io/js/script.js 200
+/api/event https://plausible.io/api/event 200
