@@ -1,25 +1,26 @@
-heading: Harjoitusajat syksy 2022
+heading: 'Harjoitusajat Kevät 2024 (1.1.-19.5.) '
 timetable:
 - day: Maanantai
   times:
-  - 20:30–21:30 Iaido, Ruusutorpan koulu
+  - 19:30–21:30 Iaido, Kilon koulu (ei 19.2., 1.4.) , Lintuvaaran koulu 8.1. 20:30-21:30
 - day: Tiistai
   times:
-  - 16:30–18:00 Kendo, Ruusutorpan koulu
+  - 16:30–18:30 Kendo, Ruusutorpan koulu (ei 2.1., 20.2., 30.4.)
 - day: Keskiviikko
   times:
-  - 19:00–20:15 Iaido, Jatkokurssi, Lintuvaaran koulu
-  - 20:15–21:30 Jodo, Jatkokurssi, Lintuvaaran koulu
+  - 19:00-20:15 Iaido, Lintuvaaran koulu (ei 21.2., 1.5.)
+  - 20:15-21:30 Jodo, Lintuvaaran koulu (ei 21.2., 1.5.)
 - day: Torstai
   times:
-  - 18:00–20:00 Kendo, Ruusutorpan koulu
-  - 18:00–19:30 Jodo, Lintuvaaran koulu
-  - 19:30–21:30 Iaido, Lintuvaaran koulu
+  - 19:30-21:30 Kendo, Ruusutorpan koulu (ei 4.1., ja 22.2.)
+  - 18:00–19:30 Jodo, Lintuvaaran koulu (ei 22.2.)
+  - 19:45–21:30 Iaido, Lintuvaaran koulu (ei 22.2.)
 - day: Perjantai
   times: []
 - day: Lauantai
   times:
-  - 14:00–15:30 Iaido, Ruusutorpan koulu
-  - 15:30–17:00 Jodo, Ruusutorpan koulu
+  - 14:00-15:30 Iaido, Ruusutorpan koulu (ei 6.1., 27.1. ja 30.3.)
+  - 15:30-17:00 Jodo, Ruusutorpan koulu (ei 6.1., 27.1. ja 30.3.)
+  - 10:00-11:30 Kendo, Teemakurssi, katso "Ajankohtaista"
 - day: Sunnuntai
   times: []
