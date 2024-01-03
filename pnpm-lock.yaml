@@ -8,6 +8,9 @@ dependencies:
   astro:
     specifier: ^4.0.6
     version: 4.0.6(sass@1.69.5)
+  remark-breaks:
+    specifier: ^4.0.0
+    version: 4.0.0
   sass:
     specifier: ^1.69.5
     version: 1.69.5
@@ -1954,6 +1957,13 @@ packages:
       - supports-color
     dev: false
 
+  /mdast-util-newline-to-break@2.0.0:
+    resolution: {integrity: sha512-MbgeFca0hLYIEx/2zGsszCSEJJ1JSCdiY5xQxRcLDDGa8EPvlLPupJ4DSajbMPAnC0je8jfb9TiUATnxxrHUog==}
+    dependencies:
+      '@types/mdast': 4.0.3
+      mdast-util-find-and-replace: 3.0.1
+    dev: false
+
   /mdast-util-phrasing@4.0.0:
     resolution: {integrity: sha512-xadSsJayQIucJ9n053dfQwVu1kuXg7jCTdYsMK8rqzKZh52nLfSH/k0sAxE0u+pj/zKZX+o5wB+ML5mRayOxFA==}
     dependencies:
@@ -2672,6 +2682,14 @@ packages:
       '@types/hast': 3.0.3
       rehype-parse: 9.0.0
       rehype-stringify: 10.0.0
+      unified: 11.0.4
+    dev: false
+
+  /remark-breaks@4.0.0:
+    resolution: {integrity: sha512-IjEjJOkH4FuJvHZVIW0QCDWxcG96kCq7An/KVH2NfJe6rKZU2AsHeB3OEjPNRxi4QC34Xdx7I2KGYn6IpT7gxQ==}
+    dependencies:
+      '@types/mdast': 4.0.3
+      mdast-util-newline-to-break: 2.0.0
       unified: 11.0.4
     dev: false
 

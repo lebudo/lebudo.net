@@ -3,7 +3,7 @@ title: Iaido
 subtitle: 居合道
 position: 2
 background_image: https://www.datocms-assets.com/4316/1554774374-iaito.jpg?auto=compress
-layout: page
+layout: "../layouts/page.astro"
 ---
 
 Iaido on perinteinen japanilainen budolaji, jossa harjoitellaan miekan vetämistä ja leikkaamista yhtenä liikkeenä. Iaidon harjoittelu koostuu erilaisista kata- eli liikesarjoista ja leikkausharjoituksista kuvitteellista vastustajaa vastaan.

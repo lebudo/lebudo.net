@@ -3,7 +3,7 @@ title: Peruskurssit
 subtitle: '2024'
 position: 1
 background_image: https://www.datocms-assets.com/4316/1514887283-miekat_1.jpg?auto=compress
-layout: page
+layout: "../layouts/page.astro"
 ---
 
 Seuraavat peruskurssimme starttaavat tammi/helmikuussa 2024!

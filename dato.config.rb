@@ -1,4 +1,4 @@
-directory "src/_pages" do
+directory "src/pages" do
   dato.pages.each do |page|
     create_post "#{page.slug}.md" do
       attributes = {
@@ -6,7 +6,7 @@ directory "src/_pages" do
         subtitle: page.subtitle,
         position: page.position,
         background_image: page.background_image.url(auto: :compress),
-        layout: "page"
+        layout: "../layouts/page.astro"
       }
 
       attributes.reject! do |_, value|
@@ -29,7 +29,7 @@ WEEKDAYS = {
   sunday: "Sunnuntai"
 }
 
-directory "src/_data" do
+directory "src/content/timetables" do
   data = {
     heading: dato.timetable.heading,
     timetable: WEEKDAYS.map do |key, translation|
@@ -44,5 +44,5 @@ directory "src/_data" do
     end
   }
 
-  create_data_file("timetable.yml", :yaml, data)
+  create_data_file("current.json", :json, data)
 end
