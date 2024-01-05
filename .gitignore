@@ -1,4 +1,5 @@
 .astro
 .env
 /vendor
+dist
 node_modules

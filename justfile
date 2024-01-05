@@ -1,8 +1,8 @@
 build:
-  bundle exec jekyll build
+  pnpm run build
 
-serve:
-  bundle exec jekyll serve
+dev:
+  pnpm run dev
 
 update-content:
   # You can supply the API token as an environment variable:
@@ -11,5 +11,6 @@ update-content:
   bundle exec dato dump
 
 alias b := build
-alias s := serve
+alias s := dev
+alias serve := dev
 alias dump := update-content
