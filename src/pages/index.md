@@ -2,8 +2,8 @@
 title: Ajankohtaista
 subtitle: '2024'
 position: 0
-background_image: https://www.datocms-assets.com/4316/1554774287-shinai.jpg?auto=compress
-layout: "../layouts/page.astro"
+background_image: 'https://www.datocms-assets.com/4316/1554774287-shinai.jpg?auto=compress'
+layout: ../layouts/page.astro
 ---
 
 **Hyvää Joulua ja onnellista uutta vuotta 2024!**

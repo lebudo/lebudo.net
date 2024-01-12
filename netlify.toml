@@ -1,5 +1,5 @@
 [build]
 # TODO: use `just` once it's available on Debian / the Netlify build image
 # https://github.com/casey/just/issues/429
-command = "bundle exec dato dump && pnpm run build"
+command = "pnpm run dump && pnpm run build"
 publish = "dist"
