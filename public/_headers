@@ -1,7 +1,3 @@
----
-layout: none
----
-
 # Common for all
 /*
   X-XSS-Protection: 1; mode=block
@@ -14,15 +10,3 @@ layout: none
 # Asset caching
 /assets/*
   Cache-Control: public, max-age=86400
-
-# Preloading
-{% for page in site.pages %}
-{{ page.url | replace: '/index', '/' }}
-  Link: </assets/normalize.css>; rel=preload; as=style
-  Link: </assets/main.css?{{ site.time | date: "%s" }}>; rel=preload; as=style
-  Link: </assets/lebudo-logo-text.svg>; rel=preload; as=image
-  Link: </assets/fonts/Metropolis-Regular.woff2>; rel=preload; as=font; type="font/woff2"; crossorigin
-  Link: </assets/fonts/Metropolis-Bold.woff2>; rel=preload; as=font; type="font/woff2"; crossorigin
-  Link: <{{ page.background_image }}>; rel=preload; as=image
-  Link: <https://stats.lebudo.net>; rel=preconnect
-{% endfor %}

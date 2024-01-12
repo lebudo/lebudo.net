@@ -1,0 +1,72 @@
+---
+import DefaultLayout from "./default.astro";
+import Navbar from "../components/navbar.astro";
+import timetable from "../content/timetables/current.json" assert { type: "json" };
+const { frontmatter: page } = Astro.props;
+const site = { title: "Leppävaaran Budoseura" };
+---
+
+<DefaultLayout title={page.title}>
+  <Fragment slot="head">
+    <link rel="preload" href="/assets/lebudo-logo-text.svg" as="image" />
+    <link rel="preload" href={page.background_image} as="image" />
+  </Fragment>
+
+  <div class="container">
+    <div class="left-side">
+      <div
+        class="image-bg"
+        style=`
+          background-image:
+            linear-gradient(
+              to bottom,
+              rgba(0, 0, 0, 0) 20%,
+              rgba(0, 0, 0, 0.8) 70%
+            ),
+            url('${page.background_image}');
+      `
+      >
+        <a class="title" href={Astro.site}>
+          <img
+            class="logo"
+            src="/assets/lebudo-logo-text.svg"
+            height="80"
+            width="276.734"
+            alt={site.title}
+          />
+        </a>
+      </div>
+    </div>
+
+    <div class="right-side">
+      <Navbar />
+      <div class="page-content">
+        <h2>
+          {page.title}
+          <span class="heading-highlight">
+            {page.subtitle}
+          </span>
+        </h2>
+        <slot />
+      </div>
+    </div>
+
+    <dl class="timetables">
+      <h4 class="timetables-heading">{timetable.heading}</h4>
+      {
+        timetable.timetable.map((timeEntry) => {
+          if (timeEntry.times.length > 0) {
+            return (
+              <>
+                <dt>{timeEntry.day}</dt>
+                {timeEntry.times.map((time) => (
+                  <dd>{time}</dd>
+                ))}
+              </>
+            );
+          }
+        })
+      }
+    </dl>
+  </div>
+</DefaultLayout>
