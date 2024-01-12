@@ -15,6 +15,23 @@ import "../styles/main.scss";
       {title ? title + " - " : ""}{site.title}
     </title>
 
+    <slot name="head" />
+
+    <link
+      href="/assets/fonts/Metropolis-Regular.woff2"
+      rel="preload"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      href="/assets/fonts/Metropolis-Bold.woff2"
+      rel="preload"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link href="https://stats.lebudo.net" rel="preconnect" />
     <link
       rel="apple-touch-icon"
       sizes="180x180"

@@ -7,6 +7,11 @@ const site = { title: "Leppävaaran Budoseura" };
 ---
 
 <DefaultLayout title={page.title}>
+  <Fragment slot="head">
+    <link rel="preload" href="/assets/lebudo-logo-text.svg" as="image" />
+    <link rel="preload" href={page.background_image} as="image" />
+  </Fragment>
+
   <div class="container">
     <div class="left-side">
       <div
@@ -18,7 +23,7 @@ const site = { title: "Leppävaaran Budoseura" };
               rgba(0, 0, 0, 0) 20%,
               rgba(0, 0, 0, 0.8) 70%
             ),
-            url('${page.background_image }');
+            url('${page.background_image}');
       `
       >
         <a class="title" href={Astro.site}>
