@@ -14,4 +14,4 @@ Iaidon harjoittelu ei vaadi erityisiä varusteita aloittelijalta; verryttelyasu 
 Peruskurssi pidetään keskiviikkoisin Lintuvaaran koululla. 
 **Kurssiemme ikäsuositus on 15-vuotta ja ylöspäin.**
 
-Iaidon vetäjämme on Paulus Artimo, Iaido 5.dan.
+Iaidon vetäjämme on Paulus Artimo, Iaido 6.dan.

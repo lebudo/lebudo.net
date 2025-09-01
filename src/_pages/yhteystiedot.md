@@ -19,8 +19,14 @@ hyväksy kutsu (vaatii kirjautumista google-tilillä) tai vastaa viestiin lähet
 Voit lopettaa ryhmän tilauksen lähettämällä tyhjän sähköpostin osoitteeseen lebudo+unsubscribe at googlegroups.com.
 
 
+**Jäsenilmoittautuminen 2025**
+
+Jäsenilmoittautuminen vuodelle 2025 on nyt auki [Suomisportissa](https://www.suomisport.fi/events/d8ea495e-a753-4cab-baee-2f1bf43ef10d)
+FKA lisenssi ja vakuutus [ohjeet löydät täältä](https://kendoliitto.fi/jasenille/maksut/).
+
+
 **Säännöt ja etiketti**
-Huom! Olemme päivittämässä seuran säännöt vuonna 2024. 
+Huom! Olemme päivittämässä seuran säännöt vuonna 2025. 
 [Yhdistyksen säännöt](https://www.datocms-assets.com/4316/1701281514-leppavaaran-budoseura-ry_yhdistyksen_saannot.pdf)
 
 [Dojo ja varasto etiketti](https://www.datocms-assets.com/4316/1701281513-lebudon-dojo-ja-varastosaanto.pdf)
