@@ -41,7 +41,9 @@ layout: default
   </div>
 
   <dl class="timetables">
-    <h4 class="timetables-heading">{{ site.data.timetable.heading }}</h4>
+    {% if site.data.timetable.heading %}
+      <h4 class="timetables-heading">{{ site.data.timetable.heading }}</h4>
+    {% endif %}
     {% for time_entry in site.data.timetable.timetable %}
       {% if time_entry.times.size > 0 %}
         <dt>{{ time_entry.day }}</dt>
