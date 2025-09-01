@@ -1,4 +1,4 @@
-@import '_vars';
+@use '_vars';
 
 /*
  * Navigation
@@ -14,7 +14,7 @@
   z-index: 5;
   cursor: pointer;
 
-  @include large-only {
+  @include vars.large-only {
     display: none;
   }
 
@@ -65,7 +65,7 @@
   display: flex;
   justify-content: space-between;
 
-  @include small-only {
+  @include vars.small-only {
     margin: 0;
     display: none;
     flex-direction: column;
@@ -81,12 +81,12 @@
   font-weight: bold;
   text-decoration: none;
 
-  @include large-only {
+  @include vars.large-only {
     text-align: center;
   }
 
   // Decorations, small screens
-  @include small-only {
+  @include vars.small-only {
     --bg: var(--darker-grey);
     --lighter-bg: var(--dark-grey);
     --border-width: 6px;
@@ -113,7 +113,7 @@
 }
 
 // Decorations, large screens
-@include large-only {
+@include vars.large-only {
   .navigation-item:not(.navigation-item-current):hover::after,
   .navigation-item:not(.navigation-item-current):focus::after,
   .navigation-item.navigation-item-current::after {
