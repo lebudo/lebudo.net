@@ -52,7 +52,11 @@ const site = { title: "Leppävaaran Budoseura" };
     </div>
 
     <dl class="timetables">
-      <h4 class="timetables-heading">{timetable.heading}</h4>
+      {
+        timetable.heading && (
+          <h4 class="timetables-heading">{timetable.heading}</h4>
+        )
+      }
       {
         timetable.timetable.map((timeEntry) => {
           if (timeEntry.times.length > 0) {
