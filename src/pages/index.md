@@ -1,56 +1,191 @@
 ---
 title: Ajankohtaista
-subtitle: '2024'
+subtitle: '2025'
 position: 0
-background_image: 'https://www.datocms-assets.com/4316/1554774287-shinai.jpg?auto=compress'
+background_image: 'https://www.datocms-assets.com/4316/1514887283-miekat_1.jpg?auto=compress'
 layout: ../layouts/page.astro
 ---
 
-**Hyvää Joulua ja onnellista uutta vuotta 2024!**
-Treenit alkavat taas 3.1.2024!
+### PERUSKURSSIT/BEGINNER'S COURSES 2026
+Seuraavat kurssit alkavat helmikuussa 2026 / Next beginner's courses will begin in February 2026.
 
-Jäsenilmoittautuminen vuodelle 2024 on nyt auki [Suomisportissa](https://www.suomisport.fi/events/da095470-9c16-4204-9467-9332c144b48c)
-FKA lisenssi ja vakuutus vuodelle 2024 on tulossa pian.
+[Ilmoita kiinnostuksestasi täyttämällä Google forms lomake](https://forms.gle/KjfuR15dSe2AGaCFA). Lähetämme kertaluontoisen muistutuksen ja tiedon seuraavasta peruskurssiajankohdasta kun päivämäärät varmistuvat.
+
+In the link above you can drop us your email and get a notification when the next courses are released and registration opened. 
+
+<!--
+Vielä ehdit ilmoittautua peruskursseille! There's still time to register for our beginner's courses
+
+Peruskurssi-aikataulu/Timetable:
+* Iaido maanantaisin/Mondays alkaen 8.9.2025 19:30-21:00 Kilon koulu
+* Jodo torstaisin/Thursdays alkaen 11.9.2025 19:00-20:30 Lintuvaraan koulu
+* Kendo lauantaisin/Saturdays alkaen 27.9.2025 9:00-11:00 Ruusutorpan koulu (alustavasti 7 lauantaita)
+[Ilmoittautuminen Suomisportissa/Register in Suomisport](https://www.suomisport.fi/events/31889661-9789-4809-b29f-a6426e379968)
+-->
 
 ---
 
 
-**TULEVIA TAPAHTUMIA 2024**
+### TULEVIA TAPAHTUMIA/EVENTS 2025
+Myös treeniajat saat nyt kätevästi alla olevasta kalenterista:
 
-* 19.-21.1. Winter kendo 2024 -leiri, Estepona/Malaga, Espanja 
-* 27.–28.1. FKA Jodon avoin maajoukkuerinkileiri, opettajana Lukasz Machura 6.dan renshi jodo
-* 10.–11.2. FKA Kendon SM-kisat, Otahalli, Espoo
-* 16.–17.3. FKA Jodon SM-kisat ja seminaari ja graduointi, Espoo
-* 13.–14.4. FKA Iaidon SM-kisat, Espoo
-* 4.–7.7. Kendon MM-kisat, Italia, WKC 2024
-* 20.–21.7. Jodoleiri Momiyama-sensei 7.dan kyoshi,KKTI Helsinki
-* 6.–8.9. EJC 2024 Finland, Otaniemi, Espoo
-* 8.–10.11. EIC 2024 Sweden, Göteborg
+<iframe src="https://calendar.google.com/calendar/embed?src=lebudo%40gmail.com&ctz=Europe%2FHelsinki" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+Lokakuu/Oktober
+* 3.-5.10. Helsinki autumn seminar, Japanese teachers (kendo)
+* 25.10. Capital Region Kendo League, Espoo
+
+Marraskuu/November
+* 7.-9.11. European Iaido Championships, Tšekki
+* 22.-23.11. Weekendo, Helsinki (kendo)
+
+Joulukuu/December
+* 20.–21.12. Jodo seminaari, Takao Momiyama-sensei (Jodo 7.dan kyoshi), KKTI Helsinki
+
+Tammikuu/January 2026
+* 24.-25.1. Finnish Kendo Championships, Kangasala
+
+Helmikuu/February
+* 13.-15.2. Kendo Spring seminar, Helsinki
+
+Maaliskuu/March
+* TBD Finnish Jodo Championships
+
+Huhtikuu/April
+* TBD Finnish Iaido Championships
+
+Toukokuu/May
+
+Kesäkuu/June
+
+Heinäkuu/July
+
+Elokuu/August
+
+Syyskuu/September
 
 [Suomisport ilmoittautumiset löydät täältä](https://www.suomisport.fi/events?masterSportIds=153&masterSportIds=244&masterSportIds=25)
 
-**Huom! Lebudo tukee jäseniään leirimaksuissa.** Varsinaisen jäsenmaksun maksanut jäsen voi hakea leiri- ja tapahtumatukea. Tukea voi hakea korkeintaan 50 euroa per tapahtuma, ja kalenterivuoden aikana korkeintaan 100 €/jäsen. 
+**Huom! Lebudo tukee jäseniään leirimaksuissa.** Varsinaisen jäsenmaksun maksanut jäsen voi hakea leiri- ja tapahtumatukea. Tukea voi hakea korkeintaan 50 euroa per tapahtuma, ja kalenterivuoden aikana korkeintaan 50 euroa/jäsen. 
+
+
+---
+
+### JODON EM-KISAT 2026, Puola 26.-28.9.2025
+Tulokset: Suomeen rantautui tällä kertaa kaksi pronssimitalia yksilökilpailuista, shodan kategoriassa Ville Pikkaraiselle (KKTI), ja sandan-kategoriassa Lebudon Emil Sågforsille sekä kantosho Tea Pihlajalle (KKTI) joukkuekilpailuista.
+
+Kilpailujen yhteydessä järjestettävistä graduoinneista olemme saaneet seuraan uusia dan arvoja:
+4.dan Kari Häyrinen
+3.dan Konrad Okroj
+3.dan Ces Lindström
+2.dan Ella Saarenko
+
+Onnittelut!
+
+
+### IAIDON SM-KISAT 2025, ESPOO OTAHALLI 6.4.2025
+#### Tulokset: 
+
+Mudan
+1. Thu Nguyen, KKTI
+2. Kristoffer Lawson, Lebudo
+3. Ville Särkkä, Shi Ken Kai
+3. Eero Kärki, Lebudo
+FS Ville Särkkä, Shi Ken Kai
+
+Ikkyu-Shodan
+1. Konstantinos Drosos, KKTI
+2. An Tran, KKTI
+3. Ville Pikkarainen, KKTI
+3. Ella Saarenko, Lebudo
+FS Martin Sjöström, KKTI
+
+Nidan
+1. Nikolas Kiikka, Yatagarasu
+2. Arttu Nieminen, Seigikai
+3. Pavel Plotnikov, KKTI
+3. Konstantinos Drosos, KKTI
+FS Iiris Sumu, Lebudo
+
+Yudansha
+1. Tea Pihlaja, KKTI
+2. Johan Haltia, Lebudo
+3. Richard Raurala, Yatagarasu
+3. Konrad Okrój, Lebudo
+FS Markku Korhonen, Budoviikingit
+
+Onnittelut kaikille voittajille sekä kiitos osallistujille!
 
 
 ---
 
 
-![Leppävaaran budoseura × Meijin budoshop](https://www.datocms-assets.com/4316/1698172176-lebudo-meijin_site.jpg)
+### JODON SM-KISAT 2025, Turku 16.3.2025
+#### Tulokset:
 
-**KENDON TEEMAKURSSI**
-Leppävaaran budoseura ry ja Meijin Budoshop ovat aloittaneet yhteistyön kendon tunnettavuuden, näkyvyyden ja tietoisuuden kehittämiseksi.
+Sandan-Yondan
+1.sija Emil Sågfors, Lebudo
+2.sija Mili Carr, KKTI
+3.sija Ignacio Lorca, Rendaino
+3.sija Juulia-Gabrielle Moreau, KKTI
+FS Ignacio Lorca, Rendaino
 
-Kurssit pyritään pitämään Lintuvaaran koululla joka toinen lauantai kello 10.00-11.30. Sisällöstä ja sen vetämisestä vastaa Meijin Budoshop:n Jari Lampinen (kendo 5. dan). Kurssille osallistuu seuramme jäsenten lisäksi muita lajin harrastajia, Lebudon jäsenille kurssi on ilmainen. Kurssipäivien alustava rakenne on siten, että alussa käydään läpi päivän teemaa (esim. shinai) noin puoli tuntia, jonka jälkeen teemaa viedään loppuajaksi käytäntöön. Joten,suuntaa lauantai-aamuisin Lintuvaaran pikkusaaliin. 
+Shodan-Nidan
+1.sija Konrad Okrój, Lebudo
+2.sija Jussi Vehviläinen, Lebudo
+3.sija Cecilia Lindström, Lebudo
+3.sija Ella Saarenko, Lebudo
+FS Ville Pikkarainen, KKTI
 
-Seuraavassa alustavasti aikataulu:
-*Paikka: Ruusutorpan koulun peilisali*
-13.01. klo 10:00-11:30
-10.02. klo 10:00-11:30
-24.02. klo 10:00-11:30
-09.03. klo 10:00-11:30
-23.03. klo 10:00-11:30
-06.04. klo 10:00-11:30
-20.04. klo 10:00-11:30
+Mudan
+1.sija Konstantinos Drosos, KKTI
+2.sija Juho Lakkisto, KKTI
+3.sija Maria Iljanko, Lebudo
+3.sija Petteri Mero, Rendaino
+FS Minerva Silanto, Rendaino
+
+Paras uchidachi Konrad Okrój, Lebudo
+
+#### Onnea uudelle 3.danille ja 2.danille!
+
+Jodon SM-kilpailuiden yhteydessä Emil Sågfors graduoi jodon 3. danin ja Iiris Sumu 2. danin.
+
+Onnea myös tapahtumassa kyu-graduointinsa läpäisseille!
+
+
+---
+
+
+### KENDON SM-KISAT 2025
+
+Lebudo menestyi Kendon SM-kilpailuissa hyvin. Kilpailutulokset ovat seuraavat:
+
+Kyu kihon-sarja (6.kyu – 2.kyu)
+ 2. sija; Arto Lehistö, Leppävaaran budoseura
+ 3. sija; Maija Suvanto, Leppävaaran budoseura
+
+Alempi shiai-sarja (6.kyu – 1.dan)
+ 3. sija; Topi Nummi, Leppävaaran budoseura
+ Fighting Spirit; Arto Lehistö, Leppävaaran budoseura
+
+
+---
+
+
+
+### SUOMEN ENSIMMÄINEN 6. DAN JA EIC2024
+Suomeen on saatu ensimmäinen iaidon rokudan-arvo Leppävaaran budoseurasta (Lebudo) Paulus Artimo läpäisi ensimmäisenä suomalaisena ZNKR iaidon 6.danin kokeen iaidon euroopanmestaruuskilpailuissa Göteborgissa 10.11.2024. Suuret onnittelut!
+
+Onnittelut myös seuran uudelle shodanille!
+
+Suomi menestyi itse EM-kilpailuissa hyvin haasteista huolimatta. Kilpailutulokset ovat seuraavat:
+
+Mudan: 3.sija - Konstantinos Drosos 
+Nidan: 2.sija - Konrad Okrój
+Godan: 3.sija - Paulus Artimo 
+Joukkuekisa: **1.sija - Suomi** 
+(Paulus Artimo, Tea Pihlaja, Ville Pikkarainen, Pavel Plotnikov)
+
 
 ---
 
@@ -59,107 +194,8 @@ Seuraavassa alustavasti aikataulu:
 
 
 **PÄÄKAUPUNKISEUDUN KENDOLIIGA / CAPITAL REGION KENDO LEAGUE**
-Kiitos kaikille osallistuneista! Seuraavaa turnausta odotellessa. 
+Seuraavaat turnaukset: 
 
-
----
-
-
-**IAIDON EM-KISAT 2023**
-Mahtavia uutisia EM-yksilökisoista Saksan Münchenissä 28.10.2023. Suomeen otteli EM-kultaa nidan katergoriassa Konrad Okrój ja EM-hopeaa yondan kategoriassa Tea Pihlaja! Onnea mitalisteille! 
-
-
----
-
-
-**JODON EM-KISAT 2023**
-Suomeen kaksi EM-kultaa ja yksi EM-pronssi jodon euroopanmestaruuskisojen yksilösarjoista! Ja lisäksi kolme FS-palkintoa!
-
-Jodon EM-kisojen yksilösarjat oteltiin Sveitsin Magglingenissa lauantaina 7.10.2023. Kaikki suomalaiset etenivät jatkoon omista alkusarjoistaan ja sijoittuivat kaikki vähintään kahdeksan parhaan joukkoon.
-EM-kultaa voittivat Cecilia Lindström 1.danien sarjassa sekä Emil Sågfors 2.danien sarjassa ja EM-pronssia otti Tea Pihlaja 5.danien sarjassa.
-Vahvasta esityksestä palkittiin Fighting Spirit -palkinnoilla Jussi Vehviläinen kyu-sarjassa, Kari Häyrinen 3.danien sarjassa ja Paulus Artimo 5.danien sarjassa. 
-
-Lisäksi erikoismaininnan erityisen vakuuttavasta uchidachina toimimisesta sai Heidi Palmen, joka toimi molempien kultaa voittaneiden suomalaisten parina.
-
-Ja eikä siinä vielä kaikki! Lebudoon graduoitiin onnistuneesti uusi shodan sekä kolme uutta nidan arvoa jodossa! Onnittelut! 
-
-
----
-
-
-**IAIDON SM-KISAT 2023**
-2.4.2023 järjestettiin iaidon SM-kisat. Kilpailuihin osallistui 36 kilpailijaa 7 seurasta ja ne olivat suurimmat kilpailut toistaiseksi. Lebudolaiset ottelivat menestyksekkäästi ja tuoden kultaa, hopeaa, pronssia, fighting spirit palkintoja ja uusia kyu- sekä dan arvoja seuraan! Onnittelut mitalisteille ja kaikille gradunneille! 
-
-Mudan:
-1\. Pavel Plotnikov, Helsingin kendoseura KKTI
-2\. Antti Aspelin, Helsingin kendoseura KKTI
-3\. Konstantinos Drosos, Helsingin kendoseura KKTI
-3\. Jussi Vehviläinen, Leppävaaran budoseura
-FS Rasmus Heiskanen, Leppävaaran budoseura
-
-Ikkyu-Shodan:
-1\. Iiris Sumu, Leppävaaran budoseura
-2\. Arttu Nieminen, Seigikai Tampere
-3\. Hirofumi Ishihara, Helsingin kendoseura KKTI
-3\. Jere Leminen, Leppävaaran budoseura
-FS Iiris Sumu, Leppävaaran budoseura
-
-Yudansha:
-1\. Tea Pihlaja, Helsingin kendoseura KKTI
-2\. Johan Haltia, Leppävaaran budoseura
-3\. Richard Raurala, Helsingin kendoseura KKTI
-3\. Marko Pukari, Helsingin kendoseura KKTI
-FS Kari Häyrinen, Leppävaaran budoseura
-
-
----
-
-
-**JODON SM-KISAT 2023**
-5.3.2023 Espoossa järjestettiin Jodon SM-kisat josta Lebudolaiset toivat kotiin kultaa, hopeaa, pronssia, fighting spirit palkintoja ja uusia kyu- ja dan arvoja! 
-
-Onnittelut kaikille mitalisteille ja gradunneille!
-
-**Tulokset:**
-3.-4. dan sarja:
-1\. Mili Carr, KKTI
-2\. Kari Häyrinen, Lebudo
-3\. Jukka Peltola, KKTI
-FS Kari Häyrinen, Lebudo
-
-1.-2. dan sarja:
-1\. Heidi Paimen, KKTI
-2\. Emil Sågfors, Lebudo
-3\. Ville Laine, Hyvinkään kendoseura
-3\. Cecilia Lindström, Lebudo
-FS Juulia-Gabrielle Moreau, KKTI
-
-Mudan sarja:
-1\. Jussi Vehviläinen, Lebudo
-2\. Elina Vanhatalo, Lebudo
-3\. Iiris Sumu, Lebudo
-FS Paulina Dìaz Ulloa, KKTI
-
-Paras Uchidachi -palkinto:
-Konrad Okrój
-
-Joukkuesarja (satunnaisjoukkueet):
-1\. sija Heidi Paimen, Konrad Okrój, Jukka Peltola
-FS Mili Carr, Cecilia Lindström, Elina Vanhatalo
-
-
----
-
-
-**KENDON SM-KISAT 2023**
-28.-29.1.2023 Jyväskylässä järjestettiin Kendon SM-kisat ja Lebudolaiset toivat kotiin neljä mitalia! Yksi niistä SM-kultaa! Onnea mitalisteille!
-
-**Yksilökilpailu – Aikuisten Kyu-sarja**
-Kultaa – Niilo Elomaa
-Pronssia – Topi Nummi ja Tommi Huovila
-
-**Yksilökilpailu – Miehet**
-Fighting spirit – Petri Pesonen
 
 
 ---
@@ -168,8 +204,10 @@ Fighting spirit – Petri Pesonen
 **ONNITTELUT!**
 Vetäjämme ovat saanet uusia dan-arvoja! 
 
-Iaidon vetäjistämme Johan Haltia on graduoinut onnistuneesti iaidon 5.dan:in Eindhovenin leirillä 6.8.2023!
+Jodon vetäjämme Kari Häyrinen graduoi onnistuneesti jodon 4.dan:in Jodon EM–kisoissa 28.9.2025.
 
-Jodon ja Iaidon vetäjämme Paulus Artimo graduoi onnistuneesti jodon 5.dan Magglingenin leirillä 1.4.2022!
+Iaidon vetäjämme Paulus Artimo graduoi onnistuneesti iaidon 6.dan Iaidon EM-kisoissa Göteborgissa 10.11.2024. 
 
-Kendon vetäjämme Petri Pesonen graduoi onnistuneesti kendon 3.dan liiton kevätleirillä Kotkassa 10.4.2022!
+Iaidon vetäjistämme Johan Haltia on graduoinut onnistuneesti iaidon 5.dan:in Eindhovenin leirillä 6.8.2023.
+
+Kendon vetäjämme Petri Pesonen graduoi onnistuneesti kendon 3.dan liiton kevätleirillä Kotkassa 10.4.2022.

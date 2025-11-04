@@ -10,8 +10,6 @@ Iaido on perinteinen japanilainen budolaji, jossa harjoitellaan miekan vetämist
 
 Seurassamme harjoitellaan Japanin Kendoliiton määrittelemää 12 katan kokoelmaa (Zen Nihon Kendo Renmei Iai). Iaidoharjoittelu aloitetaan puumiekalla, mutta nopeasti peruskurssin jälkeen on mahdollista hankkia metallinen harjoitusmiekka.
 
-Iaidon harjoittelu ei vaadi erityisiä varusteita aloittelijalta; verryttelyasu riittää.
-Peruskurssi pidetään keskiviikkoisin Lintuvaaran koululla. 
-**Kurssiemme ikäsuositus on 15-vuotta ja ylöspäin.**
+Iaidon harjoittelu ei vaadi erityisiä varusteita aloittelijalta; verryttelyasu riittää. **Kurssiemme ikäsuositus on 15-vuotta ja ylöspäin.**
 
-Iaidon vetäjämme on Paulus Artimo, Iaido 5.dan.
+Iaidon vetäjämme on Paulus Artimo, Iaido 6.dan.
