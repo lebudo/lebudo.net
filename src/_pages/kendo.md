@@ -11,7 +11,7 @@ Moderni kendo on kontaktilaji, jota harjoitellaan suojavarusteet päällä bambu
 Kendo ei vaadi voimaa vaan tekniikkaa. Aloittaessasi harjoittelun tarvitset vain oman verryttelyasun. Kurssin jälkeen saa osallistua kaikkiin seuramme kendotreeneihin. 
 
 **Kurssiemme ikäsuositus on 15-vuotta ja ylöspäin.**
-Emme tällä hetkellä järjestä junnu-kendoa. 
+Emme tällä hetkellä järjestä juniori-kendoa. 
 
 
 Vetäjämme on Petri Pesonen, kendo 3.dan.

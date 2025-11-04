@@ -6,16 +6,22 @@ background_image: https://www.datocms-assets.com/4316/1514887283-miekat_1.jpg?au
 layout: page
 ---
 
-### PERUSKURSSIT 2025
+### PERUSKURSSIT/BEGINNER'S COURSES 2026
+Seuraavat kurssit alkavat helmikuussa 2026 / Next beginner's courses will begin in February 2026.
 
-Espoo-päivänä 30.8. pidämme lajinäytökset Ruusutorpan koululla 14:00 & 15:30. Näytös on ilmainen! Tule tutustumaan lajeihin, seuraan ja vetäjiimme. Kendon, iaidon ja jodon peruskurssimme alkavat taas syyskuussa 2025. Lue lisää peruskursseistamme sivulta [Peruskurssit](https://lebudo.net/peruskurssit)
+[Ilmoita kiinnostuksestasi täyttämällä Google forms lomake](https://forms.gle/KjfuR15dSe2AGaCFA). Lähetämme kertaluontoisen muistutuksen ja tiedon seuraavasta peruskurssiajankohdasta kun päivämäärät varmistuvat.
 
-Kiinnostuitko? Peruskurssi-aikataulu on seuraava:
-Iaido maanantaisin alkaen 8.9.2025 19:30-21:00 Kilon koulu
-jodo torstaisin alkaen 11.9.2025 19:00-20:30 Lintuvaraan koulu
-kendo lauantaisin alkaen 27.9.2025 9:00-11:00 Ruusutorpan koulu (alustavasti 7 lauantaita)
-[Ilmoittautuminen Suomisportissa](https://www.suomisport.fi/events/31889661-9789-4809-b29f-a6426e379968)
+In the link above you can drop us your email and get a notification when the next courses are released and registration opened. 
 
+<!--
+Vielä ehdit ilmoittautua peruskursseille! There's still time to register for our beginner's courses
+
+Peruskurssi-aikataulu/Timetable:
+* Iaido maanantaisin/Mondays alkaen 8.9.2025 19:30-21:00 Kilon koulu
+* Jodo torstaisin/Thursdays alkaen 11.9.2025 19:00-20:30 Lintuvaraan koulu
+* Kendo lauantaisin/Saturdays alkaen 27.9.2025 9:00-11:00 Ruusutorpan koulu (alustavasti 7 lauantaita)
+[Ilmoittautuminen Suomisportissa/Register in Suomisport](https://www.suomisport.fi/events/31889661-9789-4809-b29f-a6426e379968)
+-->
 
 ---
 
@@ -25,7 +31,28 @@ Myös treeniajat saat nyt kätevästi alla olevasta kalenterista:
 
 <iframe src="https://calendar.google.com/calendar/embed?src=lebudo%40gmail.com&ctz=Europe%2FHelsinki" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+Lokakuu/Oktober
+* 3.-5.10. Helsinki autumn seminar, Japanese teachers (kendo)
+* 25.10. Capital Region Kendo League, Espoo
+
+Marraskuu/November
+* 7.-9.11. European Iaido Championships, Tšekki
+* 22.-23.11. Weekendo, Helsinki (kendo)
+
+Joulukuu/December
+* 20.–21.12. Jodo seminaari, Takao Momiyama-sensei (Jodo 7.dan kyoshi), KKTI Helsinki
+
+Tammikuu/January 2026
+* 24.-25.1. Finnish Kendo Championships, Kangasala
+
+Helmikuu/February
+* 13.-15.2. Kendo Spring seminar, Helsinki
+
+Maaliskuu/March
+* TBD Finnish Jodo Championships
+
 Huhtikuu/April
+* TBD Finnish Iaido Championships
 
 Toukokuu/May
 
@@ -34,20 +61,8 @@ Kesäkuu/June
 Heinäkuu/July
 
 Elokuu/August
-* 30.8. Espoo-päivä ja Lebudon lajinäytös
 
 Syyskuu/September
-* 26.-28.9. European Jodo Championships, Puola 
-
-Lokakuu/Oktober
-* 3.-5.10. Helsinki autumn camp, Japanese teachers (kendo)
-
-Marraskuu/November
-* 7.-9.11. European Iaido Championships, Tšekki
-
-Joulukuu/December
-* 20.–21.12. Jodo seminaari, Takao Momiyama-sensei (Jodo 7.dan kyoshi), KKTI Helsinki
-
 
 [Suomisport ilmoittautumiset löydät täältä](https://www.suomisport.fi/events?masterSportIds=153&masterSportIds=244&masterSportIds=25)
 
@@ -56,6 +71,16 @@ Joulukuu/December
 
 ---
 
+### JODON EM-KISAT 2026, Puola 26.-28.9.2025
+Tulokset: Suomeen rantautui tällä kertaa kaksi pronssimitalia yksilökilpailuista, shodan kategoriassa Ville Pikkaraiselle (KKTI), ja sandan-kategoriassa Lebudon Emil Sågforsille sekä kantosho Tea Pihlajalle (KKTI) joukkuekilpailuista.
+
+Kilpailujen yhteydessä järjestettävistä graduoinneista olemme saaneet seuraan uusia dan arvoja:
+4.dan Kari Häyrinen
+3.dan Konrad Okroj
+3.dan Ces Lindström
+2.dan Ella Saarenko
+
+Onnittelut!
 
 
 ### IAIDON SM-KISAT 2025, ESPOO OTAHALLI 6.4.2025
@@ -164,23 +189,6 @@ Joukkuekisa: **1.sija - Suomi**
 
 ---
 
-### JODO EM-KISAT 2024
-
-Jodon EM-kisat käytiin 7.-8.9.2024 Espoossa. 
-Kisatulokset löytyvät tapahtuman viralliselta nettisivulta: https://ejc2024.fi/results/
-
-Suomen edustajille tuli myös mitaleita!
-
-Mudan, 3. sija: Ella Saarenko
-**Nidan, 1.sija: Cecilia Lindström
-Godan, 1.sija: Tea Pihlaja**
-Godan, FS uchidachi: Tea Pihlaja
-
-Onnea!
-
-
----
-
 
 ![Pääkaupunkiseudun kendoliiga](https://www.datocms-assets.com/4316/1683619864-kendoliiga.jpg)
 
@@ -196,9 +204,10 @@ Seuraavaat turnaukset:
 **ONNITTELUT!**
 Vetäjämme ovat saanet uusia dan-arvoja! 
 
+Jodon vetäjämme Kari Häyrinen graduoi onnistuneesti jodon 4.dan:in Jodon EM–kisoissa 28.9.2025.
+
 Iaidon vetäjämme Paulus Artimo graduoi onnistuneesti iaidon 6.dan Iaidon EM-kisoissa Göteborgissa 10.11.2024. 
 
-Iaidon vetäjistämme Johan Haltia on graduoinut onnistuneesti iaidon 5.dan:in Eindhovenin leirillä 6.8.2023!
+Iaidon vetäjistämme Johan Haltia on graduoinut onnistuneesti iaidon 5.dan:in Eindhovenin leirillä 6.8.2023.
 
-
-Kendon vetäjämme Petri Pesonen graduoi onnistuneesti kendon 3.dan liiton kevätleirillä Kotkassa 10.4.2022!
+Kendon vetäjämme Petri Pesonen graduoi onnistuneesti kendon 3.dan liiton kevätleirillä Kotkassa 10.4.2022.

@@ -6,23 +6,26 @@ background_image: https://www.datocms-assets.com/4316/1554774410-bokken.jpg?auto
 layout: page
 ---
 
+<!---
 Seuraavat peruskurssimme alkavat syyskuussa 2025!
 
 Espoo-päivänä lauantai 30.8. Pidämme kaksi lajinäytöstä kaikista kolmesta lajistamme Ruusutorpan koululla klo 14.00 ja 15.30. Tervetuloa katsomaan ja tutustumaan lajeihimme. 
 
 Vetäjät ja seuran jäsenet vastaavat mielellään kaikkiin kysymyksiin kursseistamme. 
 
-<!---
-[Ilmoita kiinnostuksestasi täyttämällä Google forms lomake](https://forms.gle/KjfuR15dSe2AGaCFA). Lähetämme kertaluontoisen muistutuksen ja tiedon seuraavasta peruskurssiajankohdasta kun päivämäärät varmistuvat.
--->
-
 **AIKATAULU**
-
 IAIDO maanantaisin 8.9.2025 19:30-21:00 Kilon koulu
 
 JODO torstaisin 11.9.2025 19:00-20:30 Lintuvaraan koulu
 
 KENDO lauantaisin 27.9.2025 9:00-11:00 Ruusutorpan koulu (alustavasti 7 lauantaita ja harjoittelu jatkuu sen jälkeen viikottaisilla kendovuoroilla)
+
+-->
+
+Syksyn peruskurssit ovat alkaneet, seuraavat kurssit alkavat helmikuussa 2026.
+
+[Ilmoita kiinnostuksestasi täyttämällä Google forms lomake](https://forms.gle/KjfuR15dSe2AGaCFA). Lähetämme kertaluontoisen muistutuksen ja tiedon seuraavasta peruskurssiajankohdasta kun päivämäärät varmistuvat.
+
 
 
 **ILMOITTAUTUMINEN**
@@ -32,8 +35,8 @@ Ilmoittautuminen on kaksiosainen:
 http://kendoliitto.fi/jasenille/maksut/ 
 
 **2.** Peruskurssimaksu (120€)
-[Ilmoittautuminen Suomisportissa](https://www.suomisport.fi/events/31889661-9789-4809-b29f-a6426e379968)
-
+*Uusi ilmoittautumislinkki julkaistaan tammikuussa 2026
+*
 
 **LISÄINFO**
 Peruskurssiemme ikäraja on 15 vuotta mutta tästä voi tapauskohtaisesti hieman joustaa (laittakaa rohkeasti mailia).
@@ -53,13 +56,11 @@ lebudo(at)gmail.com tai ota yhteyttä Facebookin kautta.
 
 **BEGINNER'S COURSES 2025**
 
-Next beginner's courses start in September 2025!
-
-On Espoo-day Sat. 30.8.2025 we will organize a show of kendo, iaido and jodo at Ruusutorpan koulu. We will have two shows where we demonstrate all three sports at 14.30 and 16.00. Welcome! 
+Next beginner's courses start in February 2026!
 
 <!--
-Interested in our courses? [Fill out our interest form to let us know!](https://forms.gle/KjfuR15dSe2AGaCFA) We will send out a reminder email closer to the beginner's courses with info on when the next courses start.
--->
+On Espoo-day Sat. 30.8.2025 we will organize a show of kendo, iaido and jodo at Ruusutorpan koulu. We will have two shows where we demonstrate all three sports at 14.30 and 16.00. Welcome! 
+
 
 **SCHEDULE**
 IAIDO Mondays 8.9.2025 19:30-21:00 Kilon koulu
@@ -67,6 +68,10 @@ IAIDO Mondays 8.9.2025 19:30-21:00 Kilon koulu
 JODO Thursdays 11.9.2025 19:00-20:30 Lintuvaraan koulu
 
 KENDO Saturdays 27.9.2025 9:00-11:00 Ruusutorpan koulu (7 sessions and then continues with weekly training sessions)
+-->
+
+Interested in our courses? [Fill out our interest form to let us know!](https://forms.gle/KjfuR15dSe2AGaCFA) We will send out a reminder email closer to the beginner's courses with info on when the next courses start.
+
 
 **REGISTRATION**
 Registration for our beginner's courses consists of two things: 
@@ -75,8 +80,8 @@ Registration for our beginner's courses consists of two things:
 Guide: http://kendoliitto.fi/wp-content/uploads/FKA_Suomisport_How-To_2021.pdf
 
 **2.** Register and pay for the course (120€) at: 
-[Register in Suomisport](https://www.suomisport.fi/events/31889661-9789-4809-b29f-a6426e379968)
-
+*Suomisport link will be published in January 2026
+*
 
 **FURTHER INFO**
 We recommend our beginner's courses for people over 15 years of age. We can make exceptions but please be in contact with us about this. 
