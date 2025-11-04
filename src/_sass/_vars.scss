@@ -1,7 +1,7 @@
 $screen-breakpoint: 770px;
 
 @mixin small-only {
-  @media screen and (max-width: $screen-breakpoint - 1px) {
+  @media screen and (max-width: ($screen-breakpoint - 1px)) {
     @content;
   }
 }
@@ -20,16 +20,8 @@ $screen-breakpoint: 770px;
 
   // https://github.com/chrismsimpson/Metropolis
   // https://bitsofco.de/the-new-system-font-stack/
-  --base-font-family: Metropolis,
-    system-ui,
-    -apple-system,
-    BlinkMacSystemFont,
-    "Segoe UI",
-    Roboto,
-    Oxygen-Sans,
-    Ubuntu,
-    Cantarell,
-    "Helvetica Neue",
+  --base-font-family: Metropolis, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue",
     sans-serif;
 
   --full-page-padding-vertical: 50px;

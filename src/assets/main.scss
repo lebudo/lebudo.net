@@ -3,9 +3,9 @@
 
 @charset "utf-8";
 
-@use '_fonts';
-@use '_vars';
-@use '_navigation';
+@use "_fonts";
+@use "_vars";
+@use "_navigation";
 
 /*
  * Base styles
@@ -22,7 +22,9 @@ html {
   scrollbar-gutter: stable;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
 
@@ -120,7 +122,8 @@ body {
     background: var(--darker-grey);
   }
 
-  dt, dd {
+  dt,
+  dd {
     margin: 0;
     font-size: 16px;
     color: var(--light-grey);
@@ -159,7 +162,7 @@ body {
     bottom: 80px;
     left: 5vw;
     right: 5vw;
-  };
+  }
 
   color: var(--dark-grey);
   word-wrap: break-word;
@@ -193,7 +196,7 @@ body {
         bottom: 36px;
         left: 0;
         right: 0;
-      };
+      }
       max-width: 800px;
     }
   }

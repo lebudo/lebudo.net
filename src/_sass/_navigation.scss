@@ -1,4 +1,4 @@
-@use '_vars';
+@use "_vars";
 
 /*
  * Navigation
@@ -42,11 +42,11 @@
     }
     span:first-child {
       opacity: 1;
-      transform: rotate(45deg) translate(-2px, -1px);;
+      transform: rotate(45deg) translate(-2px, -1px);
     }
     span:last-child {
       opacity: 1;
-      transform: rotate(-45deg) translate(0, -1px);;
+      transform: rotate(-45deg) translate(0, -1px);
     }
   }
 }
@@ -61,7 +61,7 @@
     top: var(--full-page-padding-vertical);
     left: 5vw;
     right: 5vw;
-  };
+  }
   display: flex;
   justify-content: space-between;
 
@@ -100,7 +100,8 @@
     color: white;
     background: var(--bg);
 
-    &:focus, &:hover {
+    &:focus,
+    &:hover {
       background: var(--lighter-bg);
     }
 
@@ -125,7 +126,7 @@
       top: 10px;
       left: auto;
       right: auto;
-    };
+    }
     background-color: var(--light-grey);
   }
 
