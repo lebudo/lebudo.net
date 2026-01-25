@@ -197,6 +197,17 @@ body {
 
   a {
     color: var(--scarlet);
+    transition: 30ms;
+    text-decoration: underline;
+    text-decoration-skip-ink: all;
+    text-decoration-thickness: 0.05em;
+    text-underline-offset: 0.1em;
+
+    &:hover,
+    &:focus {
+      text-decoration-thickness: 0.1em;
+      text-underline-offset: 0.15em;
+    }
   }
 
   p {
