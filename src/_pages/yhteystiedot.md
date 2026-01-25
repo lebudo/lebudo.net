@@ -5,21 +5,28 @@ background_image: https://www.datocms-assets.com/4316/1554775236-lebudo.jpg?auto
 layout: page
 ---
 
-**Email:**
+**Sähköposti:** [lebudo@gmail.com](mailto:lebudo@gmail.com) (suomi / svenska / english)
 
-lebudo at gmail com (suomi / svenska / english)
+**Puheenjohtaja:** Joni Tammi
 
-**Seuran postituslistalle liittyminen ja sen käyttö:**
+<!-- TODO: (puheenjohtaja@lebudo.fi) -->
 
-Liity listalle lähettämällä tyhjä sähköposti ilman otsikkoa ja sisältöä osoitteeseen lebudo+subscribe at googlegroups.com
+**Häirintäyhdyshenkilöt:** Ces L., Kari H., Elina V.
+
+<!-- TODO: (hairinta@lebudo.fi) -->
+
+Häirintäyhdyshenkilöt ovat seuran hallituksesta irrallisia vapaaehtoisia, joilla on valmiuksia auttaa ja tukea häirintää tai epäasiallista käytöstä kokeneita jäseniä. Heihin voi olla matalalla kynnyksellä yhteydessä jos kokee seuran tapahtumissa häirintää, epäasiallista kohtelua tai muuta turvallisuutta vaarantavaa toimintaa. Yhteyttä voi ottaa harjoituksissa, WhatsAppilla (numerot löytyvät seuran Jäset-ryhmästä), tai häirintäyhdyshenkilöiden yhteiden sähköpostiosoitteen kautta (luodaan vuoden 2026 aikana).
+
+### Seuran postituslistalle liittyminen ja sen käyttö
+
+Liity listalle lähettämällä tyhjä sähköposti ilman otsikkoa ja sisältöä osoitteeseen [lebudo+subscribe@googlegroups.com](mailto:lebudo+subscribe@googlegroups.com).
 
 Saat vastausviestin jonka jälkeen on kaksi mahdollisuutta:
 hyväksy kutsu (vaatii kirjautumista google-tilillä) tai vastaa viestiin lähettämällä se takaisin.
 
-Voit lopettaa ryhmän tilauksen lähettämällä tyhjän sähköpostin osoitteeseen lebudo+unsubscribe at googlegroups.com.
+Voit lopettaa ryhmän tilauksen lähettämällä tyhjän sähköpostin osoitteeseen [lebudo+unsubscribe@googlegroups.com](mailto:lebudo+unsubscribe@googlegroups.com).
 
-
-**Jäsenilmoittautuminen**
+### Jäsenilmoittautuminen
 
 Jäsenilmoittautuminen vuodelle 2026 on nyt auki [Suomisportissa](https://www.suomisport.fi/events/0a1a5869-df5c-45a0-9612-2d434040cc8a)
 FKA lisenssi ja vakuutus [ohjeet löydät täältä](https://kendoliitto.fi/jasenille/maksut/).
