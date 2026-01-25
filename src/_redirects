@@ -6,6 +6,9 @@ https://www.lebudo.fi/* https://lebudo.net/:splat 302!
 https://stats.lebudo.net/* https://lebudo.net/:splat 301!
 https://lebudo.netlify.com/* https://lebudo.net/:splat 301!
 
+# Redirect URLs that are referenced elsewhere
+/saannot /yhteystiedot#saannot 302
+
 # Redirect to admin panel
 /admin https://lebudo.admin.datocms.com/ 302
 
