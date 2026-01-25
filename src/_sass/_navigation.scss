@@ -35,6 +35,11 @@
     transform-origin: 0% 100%;
   }
 
+  #navigation-toggle-box:focus-visible + & {
+    outline: 2px solid var(--scarlet);
+    outline-offset: 2px;
+  }
+
   #navigation-toggle-box:checked + & {
     span {
       opacity: 0;
