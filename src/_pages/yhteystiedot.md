@@ -7,6 +7,8 @@ layout: page
 
 **Sähköposti:** [lebudo@gmail.com](mailto:lebudo@gmail.com) (suomi / svenska / english)
 
+Löydät Lebudon myös [Instagramista](https://www.instagram.com/leppavaaranbudoseura/) ja [Facebookista](https://facebook.com/lebudory).
+
 **Puheenjohtaja:** Joni Tammi
 
 <!-- TODO: (puheenjohtaja@lebudo.fi) -->
