@@ -1,6 +1,6 @@
 ---
 title: Yhteystiedot
-position: 5
+position: 7
 background_image: https://www.datocms-assets.com/4316/1554775236-lebudo.jpg?auto=compress
 layout: page
 ---
@@ -19,14 +19,14 @@ hyväksy kutsu (vaatii kirjautumista google-tilillä) tai vastaa viestiin lähet
 Voit lopettaa ryhmän tilauksen lähettämällä tyhjän sähköpostin osoitteeseen lebudo+unsubscribe at googlegroups.com.
 
 
-**Jäsenilmoittautuminen 2025**
+**Jäsenilmoittautuminen**
 
-Jäsenilmoittautuminen vuodelle 2025 on nyt auki [Suomisportissa](https://www.suomisport.fi/events/d8ea495e-a753-4cab-baee-2f1bf43ef10d)
+Jäsenilmoittautuminen vuodelle 2026 on nyt auki [Suomisportissa](https://www.suomisport.fi/events/0a1a5869-df5c-45a0-9612-2d434040cc8a)
 FKA lisenssi ja vakuutus [ohjeet löydät täältä](https://kendoliitto.fi/jasenille/maksut/).
 
 
 **Säännöt ja etiketti**
-Huom! Olemme päivittämässä seuran säännöt vuonna 2025. 
+Huom! Olemme päivittämässä seuran säännöt vuonna 2026. 
 [Yhdistyksen säännöt](https://www.datocms-assets.com/4316/1701281514-leppavaaran-budoseura-ry_yhdistyksen_saannot.pdf)
 
 [Dojo ja varasto etiketti](https://www.datocms-assets.com/4316/1701281513-lebudon-dojo-ja-varastosaanto.pdf)
