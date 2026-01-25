@@ -24,10 +24,18 @@ Voit lopettaa ryhmän tilauksen lähettämällä tyhjän sähköpostin osoittees
 Jäsenilmoittautuminen vuodelle 2026 on nyt auki [Suomisportissa](https://www.suomisport.fi/events/0a1a5869-df5c-45a0-9612-2d434040cc8a)
 FKA lisenssi ja vakuutus [ohjeet löydät täältä](https://kendoliitto.fi/jasenille/maksut/).
 
+### Säännöt ja etiketti
 
-**Säännöt ja etiketti**
-Huom! Olemme päivittämässä seuran säännöt vuonna 2026. 
-[Yhdistyksen säännöt](https://www.datocms-assets.com/4316/1701281514-leppavaaran-budoseura-ry_yhdistyksen_saannot.pdf)
+Seuran säännöt on päivitetty vuonna 2026.
 
-[Dojo ja varasto etiketti](https://www.datocms-assets.com/4316/1701281513-lebudon-dojo-ja-varastosaanto.pdf)
-[Dojo etiquette](https://www.datocms-assets.com/4316/1701281510-lebudo-dojo-etiquette.pdf)
+[Yhdistyksen säännöt (pdf)](https://www.datocms-assets.com/4316/1769357613-lebudon-saannot-2026-01-07.pdf) – [Association rules (pdf)](https://www.datocms-assets.com/4316/1769357613-lebudon-saannot-2026-01-07-en.pdf)
+
+[Kurinpitosäännöstö (pdf)](https://www.datocms-assets.com/4316/1769357613-lebudon-kurinpitosaannosto-2025-11-18-en.pdf) – [Disciplinary regulations (pdf)](https://www.datocms-assets.com/4316/1769357629-lebudon-kurinpitosaannosto-2025-11-18.pdf)
+
+[Toimintakäsikirja (pdf)](https://www.datocms-assets.com/4316/1769357679-lebudon-toimintakasikirja-2026-01-13.pdf)
+
+- [Liite 1: Turvallisemman tilan periaatteet (pdf)](https://www.datocms-assets.com/4316/1769357679-liite-1-lebudon-turvallisemman-tilan-periaatteet-2026-01-13.pdf)
+- [Liite 2: Dojoetiketti (pdf)](https://www.datocms-assets.com/4316/1769357679-liite-2-lebudon-dojoetiketti-2026-01-13.pdf)
+- [Liite 3: Harjoittelijan ja ohjaajan polut (pdf)](https://www.datocms-assets.com/4316/1769357679-liite-3-lebudon-harjoittelijan-ja-ohjaajan-polut-2026-01-13.pdf)
+- [Liite 4: Valmennuslinja ja opetussuunnitelma (pdf)](https://www.datocms-assets.com/4316/1769357679-liite-4-lebudon-valmennuslinja-ja-opetussuunnitelma-2026-01-13.pdf)
+- [Liite 5: Tehtäväkuvaukset (pdf)](https://www.datocms-assets.com/4316/1769357679-liite-5-lebudon-tehtavakuvaukset-2026-01-13.pdf)
