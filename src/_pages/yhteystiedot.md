@@ -33,7 +33,7 @@ Voit lopettaa ryhmän tilauksen lähettämällä tyhjän sähköpostin osoittees
 Jäsenilmoittautuminen vuodelle 2026 on nyt auki [Suomisportissa](https://www.suomisport.fi/events/0a1a5869-df5c-45a0-9612-2d434040cc8a)
 FKA lisenssi ja vakuutus [ohjeet löydät täältä](https://kendoliitto.fi/jasenille/maksut/).
 
-### Säännöt ja etiketti
+### Säännöt ja etiketti <a name="saannot"></a>
 
 Seuran säännöt on päivitetty vuonna 2026.
 
