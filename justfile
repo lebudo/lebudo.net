@@ -1,3 +1,9 @@
+list:
+  just --list --unsorted
+
+install-deps:
+  bundle install
+
 build:
   bundle exec jekyll build
 
@@ -9,6 +15,8 @@ update-content:
   # export DATO_API_TOKEN=abc123
   # or by creating a .env file containing 'DATO_API_TOKEN=abc123'.
   bundle exec dato dump
+
+ci: install-deps update-content build
 
 alias b := build
 alias s := serve
